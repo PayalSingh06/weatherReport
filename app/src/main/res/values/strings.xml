@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Weather Report</string>
+    <string name="dash">- - -</string>
+    <string name="temp">Temp:</string>
+    <string name="wind">Wind</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="humidity">Humidity</string>
+    <string name="city">City</string>
+    <string name="welcome_in_weather_report">Welcome In Weather Report</string>
+    <string name="use_your_current_location">Use Your Current Location</string>
+    <string name="current_location">Current Location</string>
+    <string name="get_report">Get Report</string>
+</resources>
